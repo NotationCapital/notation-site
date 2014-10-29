@@ -1,0 +1,30 @@
+/* tbh, I fucking can't with the css ... */
+p { font-size: 2.0em; }
+p.haiworld::selection {
+    background: #000000;
+}
+p.haiworld{
+  font-family: monospace;
+  white-space: pre;
+  color:#FFFFFF;
+}
+
+/* hackery fuckery wtf */
+.outer {
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.middle {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.inner {
+    margin-left: auto;
+    margin-right: auto; 
+    width: 50%;
+}
+

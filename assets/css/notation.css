@@ -21,7 +21,7 @@ h1, h2, p {
 }
 
 h1 {
-	background: transparent url(../images/placeholder-logo.png) no-repeat;
+	background: transparent url(../images/notation-capital-logo.png) no-repeat;
 	text-indent: -9999px;
 	height: 185px;
 	width: 147px;
@@ -78,5 +78,5 @@ footer {
 (-webkit-min-device-pixel-ratio: 2), 
 (min-resolution: 192dpi) { 
    h1 {
-	background: transparent url(../images/placeholder-logo@2x.png) no-repeat;
+	background: transparent url(../images/notation-capital-logo@2x.png) no-repeat;
 }

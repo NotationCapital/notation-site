@@ -82,6 +82,12 @@ footer {
         margin-top: 100px;
 }
 
+@media screen and (max-width: 1242px) {
+        label[for="tlemail"] {
+            display: block;
+        }
+}
+
 @media 
 (-webkit-min-device-pixel-ratio: 2), 
 (min-resolution: 192dpi) { 

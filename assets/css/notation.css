@@ -79,7 +79,12 @@ footer {
 @media 
 (-webkit-min-device-pixel-ratio: 2), 
 (min-resolution: 192dpi) { 
+        /*
    h1 {
         background: transparent url(../images/notation-capital-logo@2x.png) no-repeat;
         background-size:124px 191px;
+
+        background: transparent url(../images/528-oneloop-1secgap.gif) top center no-repeat;
+        background-size:528px 248px;
+         */
 }

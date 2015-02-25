@@ -11,7 +11,19 @@ Notation Capital
   timoni [at] departmentofdesign.co
   Brooklyn, SF, Nebraska, Asia
 
+  Animation: Skip Hursh
+  @skiphursh
+  skip [at] skiphursh.com
+  Brooklyn
+
+  Social icons: Dan Leech
+  https://github.com/danleech/simple-icons
+  Corsham/Bath, UK
+
+  Cowsay: Tierney, of course
+  @jeffreytierney
+  https://github.com/jeffreytierney/console.cowsay
 
 /* SITE */
-  Launched: 11102014
+  Launched: 02252015
 

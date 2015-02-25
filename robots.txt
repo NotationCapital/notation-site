@@ -1,0 +1,3 @@
+# Hi human. Please see /humans.txt
+User-Agent: *
+Disallow:

@@ -92,6 +92,11 @@ a:hover .social-img{
     transition: all 100ms ease-out;
 }
 
+.social-img.social-map{
+    width: 36px;
+    height: 36px;
+}
+
 footer {
     color: #fff;
     font-size: 14px;
